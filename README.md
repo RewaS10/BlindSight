@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ BlindSight
+#  BlindSight
 
 ### Accessibility-first cybersecurity assistant for detecting phishing, scams, and malicious links from screenshots.
 
@@ -25,7 +25,7 @@ BlindSight combines OCR, threat intelligence, phishing heuristics, and accessibi
 
 ---
 
-# 🔍 Overview
+#  Overview
 
 BlindSight is a mobile cybersecurity assistant designed to help users identify phishing attacks, scam messages, fake login pages, impersonation attempts, and suspicious links directly from screenshots.
 
@@ -42,7 +42,7 @@ The application performs:
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Modern phishing attacks increasingly rely on psychological manipulation rather than technical exploits. Many scam messages appear visually convincing and are difficult for users to identify quickly.
 
@@ -52,9 +52,9 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🤖 Threat Analysis Engine
+##  Threat Analysis Engine
 
 - Phishing detection
 - Scam pattern recognition
@@ -76,7 +76,7 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 ---
 
-## ♿ Accessibility-Focused UX
+##  Accessibility-Focused UX
 
 - Voice-guided feedback
 - High-contrast readable interface
@@ -86,7 +86,7 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 ---
 
-## 📱 Modern Mobile Experience
+##  Modern Mobile Experience
 
 - Animated circular risk gauge
 - Severity-based color system
@@ -100,21 +100,18 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 <table>
   <tr>
-    <td align="center"><strong>High Risk Detection</strong></td>
-    <td align="center"><strong>Low Risk Detection</strong></td>
-    <td align="center"><strong>Detected Links Analysis</strong></td>
-  </tr>
-
-  <tr>
-    <td>
+    <td align="center">
+      <strong>High Risk Detection</strong><br/><br/>
       <img src="frontend/assets/screenshots/highrisk.png" width="220"/>
     </td>
 
-    <td>
+    <td align="center">
+      <strong>Low Risk Detection</strong><br/><br/>
       <img src="frontend/assets/screenshots/lowrisk.png" width="220"/>
     </td>
 
-    <td>
+    <td align="center">
+      <strong>Detected Links Analysis</strong><br/><br/>
       <img src="frontend/assets/screenshots/detectedlinks.png" width="220"/>
     </td>
   </tr>
@@ -141,7 +138,7 @@ BlindSight analyzes screenshots of suspicious messages, phishing emails, fake lo
 
 ---
 
-# 🏗️ Architecture
+#  Architecture
 
 ```text
 User Screenshot
@@ -220,7 +217,7 @@ Results are displayed visually and can also be explained through voice-guided fe
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 # Prerequisites
 
