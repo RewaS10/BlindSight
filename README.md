@@ -96,36 +96,36 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 <table>
   <tr>
     <td align="center">
       <strong>High Risk Detection</strong><br/><br/>
-      <img src="frontend/assets/screenshots/highrisk.png" width="220"/>
+      <img src="assets/screenshots/highrisk.jpeg" width="220"/>
     </td>
 
     <td align="center">
       <strong>Low Risk Detection</strong><br/><br/>
-      <img src="frontend/assets/screenshots/lowrisk.png" width="220"/>
+      <img src="assets/screenshots/lowrisk.jpeg" width="220"/>
     </td>
 
     <td align="center">
       <strong>Detected Links Analysis</strong><br/><br/>
-      <img src="frontend/assets/screenshots/detectedlinks.png" width="220"/>
+      <img src="assets/screenshots/detectedlinks.jpeg" width="220"/>
     </td>
   </tr>
 </table>
 
 ---
 
-# 🎥 Demo
+#  Demo
 
 BlindSight analyzes screenshots of suspicious messages, phishing emails, fake login pages, and malicious links in real time to help users quickly identify cyber threats and avoid scams.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -321,7 +321,7 @@ sudo apt install tesseract-ocr
 
 ---
 
-# 🔒 Security Notes
+#  Security Notes
 
 - API keys are stored securely using `.env`
 - Secrets are excluded using `.gitignore`
@@ -330,7 +330,7 @@ sudo apt install tesseract-ocr
 
 ---
 
-# 🗺️ Roadmap
+#  Roadmap
 
 - [ ] LLM-based phishing classification
 - [ ] QR phishing detection
@@ -342,13 +342,13 @@ sudo apt install tesseract-ocr
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👤 Author
+#  Author
 
 Developed by **Rewa Shukla**
 
