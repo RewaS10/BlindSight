@@ -96,29 +96,15 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 ---
 
-#  Screenshots
+# 📸 Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>High Risk Detection</strong><br/><br/>
-      <img src="assets/screenshots/highrisk.jpeg" width="220"/>
-    </td>
+<div align="center">
 
-    <td align="center">
-      <strong>Low Risk Detection</strong><br/><br/>
-      <img src="assets/screenshots/lowrisk.jpeg" width="220"/>
-    </td>
+| High Risk Detection | Low Risk Detection | Detected Links Analysis |
+|---|---|---|
+| <img src="frontend/assets/screenshots/highrisk.jpeg" width="220"/> | <img src="frontend/assets/screenshots/lowrisk.jpeg" width="220"/> | <img src="frontend/assets/screenshots/detectedlinks.jpeg" width="220"/> |
 
-    <td align="center">
-      <strong>Detected Links Analysis</strong><br/><br/>
-      <img src="assets/screenshots/detectedlinks.jpeg" width="220"/>
-    </td>
-  </tr>
-</table>
-
----
-
+</div>
 #  Demo
 
 BlindSight analyzes screenshots of suspicious messages, phishing emails, fake login pages, and malicious links in real time to help users quickly identify cyber threats and avoid scams.
