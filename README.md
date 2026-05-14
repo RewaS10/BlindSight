@@ -102,7 +102,7 @@ The project is especially focused on accessibility-first cybersecurity experienc
 
 | High Risk Detection | Low Risk Detection | Detected Links Analysis |
 |---|---|---|
-| <img src="assets/screenshots/highrisk.jpeg" width="220"/> | <img src="assets/screenshots/lowrisk.jpeg" width="220"/> | <img src="assets/screenshots/detectedlinks.jpeg" width="220"/> |
+| <img src="frontend/assets/screenshots/highrisk.jpeg" width="220"/> | <img src="frontend/assets/screenshots/lowrisk.jpeg" width="220"/> | <img src="frontend/assets/screenshots/detectedlinks.jpeg" width="220"/> |
 
 </div>
 #  Demo
