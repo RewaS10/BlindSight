@@ -94,9 +94,7 @@ The project is especially focused on accessibility-first cybersecurity experienc
 - Premium dark-mode design
 - Clean threat breakdown cards
 
----
-
-#  Screenshots
+# 📸 Screenshots
 
 <div align="center">
 
@@ -105,6 +103,7 @@ The project is especially focused on accessibility-first cybersecurity experienc
 | <img src="frontend/assets/screenshots/highrisk.jpeg" width="220"/> | <img src="frontend/assets/screenshots/lowrisk.jpeg" width="220"/> | <img src="frontend/assets/screenshots/detectedlinks.jpeg" width="220"/> |
 
 </div>
+---
 #  Demo
 
 BlindSight analyzes screenshots of suspicious messages, phishing emails, fake login pages, and malicious links in real time to help users quickly identify cyber threats and avoid scams.
