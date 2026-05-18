@@ -1,1 +1,29 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+backend/.env
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+
+# Logs
+logs/
+*.log
+
+# Uploads
+uploads/
+
+# OS files
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
